@@ -5,9 +5,8 @@
       - Inputing a password.\
       - Using OLED Display to tell the user whether the system is armed.\
       - Using the LED to indicate the arm status of the system (ON armed, OFF not armed).\
-      - Using the Microphone to detect footsteps and light sensor to detect shadows.\
+      - Using the Microphone to detect loud crashes
       - Using the buzzer as an alarm if the system detects a person when the system is armed or too many incorrect passwords.\
   The softwares that will be used to achieve this are:\
       - Arduino IDE\
-      - Putty\
-  The Adruino IDE will be used to develop the driving code for the Adruino and its sensors. Putty will be used to log the analog data from the sensors.   
+  The Adruino IDE will be used to develop the driving code for the Adruino and its sensors.    
